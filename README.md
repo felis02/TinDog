@@ -1,2 +1,1 @@
-# TinDog
-A simple single page website.
+TinDog Starting Files
